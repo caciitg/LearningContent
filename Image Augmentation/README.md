@@ -1,5 +1,5 @@
 # Image Augmentation and Albumentations
-#### Presentation by Amey Rambatla ([@Ameybot](https://github.com/Ameybot)) & Rishon Dsouza([@rishondz](https://github.com/rishondz))
+#### Presentation by Amey Rambatla ([Ameybot](https://github.com/Ameybot)) & Rishon Dsouza([rishondz](https://github.com/rishondz))
 ## Overview:
 1. Introduction & Types of Image Augmentations
 2. Understanding Effects of some Fundamental Transformations
@@ -8,11 +8,11 @@
 5. Code Implementation
 
 ## Resources:
-* Code:
-   * [Albumentations Pipeline (Online Augmentation)](https://colab.research.google.com/drive/1G8ztH_PwpN3VijF0zAoB0xvx0c9N4kbj?usp=sharing)
-   * [Data Generator (Offline Augmentation)](https://colab.research.google.com/drive/1zbXk7w6tI6cA8Nxmoz5uifJMMmd0ivLW?usp=sharing)
 * Presentation: 
-   * [Image Pre-Processing & Augmentation](https://drive.google.com/file/d/1arGw-FaiBF9Slp5pOi_v3G052BeZYA-9/view?usp=sharing)
+   * [Image Pre-Processing & Augmentation](Presentation.pdf)
+* Code:
+   * [Albumentations Pipeline (Online Augmentation)](Albumentations.ipynb)
+   * [Data Generator (Offline Augmentation)](Data%20Generator.ipynb)
 
 ## Reference Material:
 * [Visualizing and Understanding Convolutional Networks (Zeiler et al., 2013)](https://arxiv.org/pdf/1311.2901.pdf)
