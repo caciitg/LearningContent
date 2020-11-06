@@ -1,5 +1,5 @@
 # Image Augmentation and Albumentations
-#### Presentation by Amey Rambatla ([Ameybot](https://github.com/Ameybot)) & Rishon Dsouza([rishondz](https://github.com/rishondz))
+#### Presentation by Amey Rambatla ([@Ameybot](https://github.com/Ameybot)) & Rishon Dsouza([@rishondz](https://github.com/rishondz))
 ## Overview:
 1. Introduction & Types of Image Augmentations
 2. Understanding Effects of some Fundamental Transformations
